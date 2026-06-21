@@ -1,4 +1,4 @@
-# 🏷️ UC07 - Sistema de Supermercado
+# 🏷️ Sistema de Supermercado
 
 ![Java](https://img.shields.io/badge/Java-11-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
